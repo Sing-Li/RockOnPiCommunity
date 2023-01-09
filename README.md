@@ -1,11 +1,6 @@
-<h1 align='center'> DevOpsCommunity x Rocket.Chat  </h1>
+<h1 align='center'>RockOnPi Community</h1>
 
-<img src="https://github.com/rohitg00/DevOpsCommunity/raw/main/assets/cover.png" />
-DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share. 
-
----
-
-Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
+Community of admins running Rocket.Chat on Raspberry Pi and other mini PCs
 
 ---
 
@@ -18,7 +13,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ## ☁️ Contribute on the Cloud 
 Start developing and make changes to your code via a single click **Anytime-Anywhere**!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/KapadiaNaitik/RC4Community)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Sing-Li/RockOnPiCommunity)
 
 Start **designing and customizing your community** management system by opening the **already setup and ready to code developer environment** using Gitpod!
 
